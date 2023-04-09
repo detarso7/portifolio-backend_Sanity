@@ -1,1 +1,3 @@
-export const schemaTypes = []
+import header from "./header";
+
+export const schemaTypes = [header]
