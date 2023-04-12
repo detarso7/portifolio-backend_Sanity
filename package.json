@@ -3,6 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "main": "package.json",
+  "author": "Saulo de Tarso <de_tarso7@hotmail.com>",
   "license": "UNLICENSED",
   "scripts": {
     "dev": "sanity dev",
